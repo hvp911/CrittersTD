@@ -1,0 +1,7 @@
+2014-12-02 12:40:24.333 ## Game GUI loaded!! ## game
+2014-12-02 12:40:32.731 ## Game Started. ## game
+2014-12-02 12:40:37.404 ## Wave 1 on the move. ## wave1
+2014-12-02 12:40:39.188 ## tower2 (Red Rangers) was bought. Tower number: 1. ## player ++ towers ++ wave1 ++ tower1
+2014-12-02 12:40:39.188 ## Player bank: 700.0. ## wave1 ++ player
+2014-12-02 12:40:43.067 ## Tower serial: 1 is firing freezing effect. ## towers ++ wave1 ++ tower1
+2014-12-02 12:40:43.221 ## Game quitting. Scores saved. Player Life: 100; Level: 1; Currency: 700.0; Score: 40. ## game

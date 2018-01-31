@@ -1,0 +1,32 @@
+##Name:-
+Laser Shooter
+##Description:-
+The Laser shooter does constant on critters.
+Its specialization is to use near starting point of map.
+It has a good range to attack on critters.
+The shooting power is normal for Laser Shooter but its damage capability is impressive.
+It can work incredibly after upgrading its capability.
+##Cost:-
+150
+##Damage:-
+50
+##Range:-
+100
+##Level:-
+1
+##Type:-
+tower1
+##Cost Depreciation Factor:-
+0.75
+##Upgrade Factor:-
+0.4
+##Rate of fire:-
+4
+##Fire color:-
+51, 255, 51
+##Fire Length (for speed):-
+8
+##Special Effect:-
+Burn
+##Special effect after every number of fires:-
+3

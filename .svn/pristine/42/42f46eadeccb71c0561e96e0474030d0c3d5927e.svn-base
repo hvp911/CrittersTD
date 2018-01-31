@@ -1,0 +1,8 @@
+ca.soen6441.tf.critterstd.controller
+ca.soen6441.tf.critterstd.model
+ca.soen6441.tf.critterstd.model.cell
+ca.soen6441.tf.critterstd.model.strategy
+ca.soen6441.tf.critterstd.model.tower
+ca.soen6441.tf.critterstd.test
+ca.soen6441.tf.critterstd.utility
+ca.soen6441.tf.critterstd.view

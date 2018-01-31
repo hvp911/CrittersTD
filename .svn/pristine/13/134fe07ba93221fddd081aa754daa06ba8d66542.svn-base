@@ -1,0 +1,30 @@
+##Name:-
+Christ Crackers
+##Description:-
+Christ Crackers is most powerful and effective tower in this game.
+It is also known as Christ - the destroyer.
+Crackers are recommended to use around mid and exit point of map to destroy critters completely.
+##Cost:-
+500
+##Damage:-
+150
+##Range:-
+200
+##Level:-
+1
+##Type:-
+tower3
+##Cost Depreciation Factor:-
+0.75
+##Upgrade Factor:-
+0.4
+##Rate of fire:-
+1
+##Fire color:-
+51, 51, 255
+##Fire Length  (for speed):-
+16
+##Special Effect:-
+Splash
+##Special effect after every number of fires:-
+5

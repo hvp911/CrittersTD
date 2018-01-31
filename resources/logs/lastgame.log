@@ -1,0 +1,59 @@
+2015-06-02 21:41:14.232 ## Game GUI loaded!! ## game
+2015-06-02 21:41:35.983 ## Game Started. ## game
+2015-06-02 21:41:41.074 ## tower1 (Laser Shooter) was bought. Tower number: 1. ## player ++ towers ++ wave0 ++ tower1
+2015-06-02 21:41:41.074 ## Player bank: 850.0. ## wave0 ++ player
+2015-06-02 21:41:42.795 ## Wave 1 on the move. ## wave1
+2015-06-02 21:41:46.915 ## tower2 (Red Rangers) was bought. Tower number: 2. ## player ++ towers ++ wave1 ++ tower2
+2015-06-02 21:41:46.915 ## Player bank: 550.0. ## wave1 ++ player
+2015-06-02 21:41:48.373 ## Tower serial: 1 is firing burning effect. ## towers ++ wave1 ++ tower1
+2015-06-02 21:41:50.48 ## Tower serial: 2 is firing freezing effect. ## towers ++ wave1 ++ tower2
+2015-06-02 21:41:50.496 ## Critter4 is dead. ## player ++ wave1
+2015-06-02 21:41:50.496 ## Player bank: 600.0. ## wave1 ++ player
+2015-06-02 21:41:50.84 ## Tower serial: 1 is firing burning effect. ## towers ++ wave1 ++ tower1
+2015-06-02 21:41:52.277 ## tower1 (Laser Shooter) was bought. Tower number: 3. ## player ++ towers ++ wave1 ++ tower3
+2015-06-02 21:41:52.277 ## Player bank: 450.0. ## wave1 ++ player
+2015-06-02 21:41:52.539 ## Critter0 reached exit point. ## player ++ wave1
+2015-06-02 21:41:52.539 ## Remaining player life:99. ## wave1 ++ player
+2015-06-02 21:41:53.6 ## Critter3 is dead. ## player ++ wave1
+2015-06-02 21:41:53.6 ## Player bank: 500.0. ## wave1 ++ player
+2015-06-02 21:41:53.643 ## Tower serial: 1 is firing burning effect. ## towers ++ wave1 ++ tower1
+2015-06-02 21:41:54.514 ## Tower serial: 3 is firing burning effect. ## towers ++ wave1 ++ tower3
+2015-06-02 21:41:54.827 ## Critter2 is dead. ## player ++ wave1
+2015-06-02 21:41:54.827 ## Player bank: 550.0. ## wave1 ++ player
+2015-06-02 21:41:55.009 ## Tower serial: 2 is firing freezing effect. ## towers ++ wave1 ++ tower2
+2015-06-02 21:41:56.056 ## Tower serial: 1 is firing burning effect. ## towers ++ wave1 ++ tower1
+2015-06-02 21:41:56.168 ## Critter5 is dead. ## player ++ wave1
+2015-06-02 21:41:56.168 ## Player bank: 600.0. ## wave1 ++ player
+2015-06-02 21:41:58.443 ## Critter6 is dead. ## player ++ wave1
+2015-06-02 21:41:58.443 ## Player bank: 650.0. ## wave1 ++ player
+2015-06-02 21:41:58.659 ## Tower serial: 1 is firing burning effect. ## towers ++ wave1 ++ tower1
+2015-06-02 21:41:58.925 ## Player bank: 575.0. ## wave1 ++ player
+2015-06-02 21:41:58.925 ## tower1 (Laser Shooter) was upgraded. Tower number: 3. ## player ++ towers ++ wave1 ++ tower3
+2015-06-02 21:41:58.971 ## Player bank: 500.0. ## wave1 ++ player
+2015-06-02 21:41:58.987 ## tower1 (Laser Shooter) was upgraded. Tower number: 3. ## player ++ towers ++ wave1 ++ tower3
+2015-06-02 21:41:59.222 ## Player bank: 425.0. ## wave1 ++ player
+2015-06-02 21:41:59.222 ## tower1 (Laser Shooter) was upgraded. Tower number: 3. ## player ++ towers ++ wave1 ++ tower3
+2015-06-02 21:41:59.3 ## Player bank: 350.0. ## wave1 ++ player
+2015-06-02 21:41:59.3 ## tower1 (Laser Shooter) was upgraded. Tower number: 3. ## player ++ towers ++ wave1 ++ tower3
+2015-06-02 21:41:59.528 ## Player bank: 275.0. ## wave1 ++ player
+2015-06-02 21:41:59.531 ## tower1 (Laser Shooter) was upgraded. Tower number: 3. ## player ++ towers ++ wave1 ++ tower3
+2015-06-02 21:41:59.562 ## Tower serial: 2 is firing freezing effect. ## towers ++ wave1 ++ tower2
+2015-06-02 21:41:59.828 ## Player bank: 200.0. ## wave1 ++ player
+2015-06-02 21:41:59.828 ## tower1 (Laser Shooter) was upgraded. Tower number: 3. ## player ++ towers ++ wave1 ++ tower3
+2015-06-02 21:41:59.984 ## Player bank: 125.0. ## wave1 ++ player
+2015-06-02 21:41:59.984 ## tower1 (Laser Shooter) was upgraded. Tower number: 3. ## player ++ towers ++ wave1 ++ tower3
+2015-06-02 21:42:00.125 ## Player bank: 50.0. ## wave1 ++ player
+2015-06-02 21:42:00.125 ## tower1 (Laser Shooter) was upgraded. Tower number: 3. ## player ++ towers ++ wave1 ++ tower3
+2015-06-02 21:42:00.734 ## Critter7 is dead. ## player ++ wave1
+2015-06-02 21:42:00.734 ## Player bank: 100.0. ## wave1 ++ player
+2015-06-02 21:42:01.251 ## Tower serial: 1 is firing burning effect. ## towers ++ wave1 ++ tower1
+2015-06-02 21:42:02.548 ## Tower serial: 3 is firing burning effect. ## towers ++ wave1 ++ tower3
+2015-06-02 21:42:02.863 ## Critter1 is dead. ## player ++ wave1
+2015-06-02 21:42:02.863 ## Player bank: 150.0. ## wave1 ++ player
+2015-06-02 21:42:03.535 ## Tower serial: 1 is firing burning effect. ## towers ++ wave1 ++ tower1
+2015-06-02 21:42:04.16 ## Tower serial: 2 is firing freezing effect. ## towers ++ wave1 ++ tower2
+2015-06-02 21:42:04.26 ## Critter9 is dead. ## player ++ wave1
+2015-06-02 21:42:04.26 ## Player bank: 200.0. ## wave1 ++ player
+2015-06-02 21:42:05.291 ## Critter8 is dead. ## player ++ wave1
+2015-06-02 21:42:05.291 ## Player bank: 250.0. ## wave1 ++ player
+2015-06-02 21:42:17.783 ## Game quitting. Scores saved. Player Life: 99; Level: 1; Currency: 250.0; Score: 530. ## game

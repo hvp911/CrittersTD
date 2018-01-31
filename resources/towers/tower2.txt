@@ -1,0 +1,32 @@
+##Name:-
+Red Rangers
+##Description:-
+Red Rangers is a constant shooters.
+Its damage and power capability are more that Laser Shooter.
+It can deal with critters at any level of game.
+Its efficiency is excellent after the up-gradation.
+It targets multiple critters at same time.
+##Cost:-
+300
+##Damage:-
+75
+##Range:-
+150
+##Level:-
+1
+##Type:-
+tower2
+##Cost Depreciation Factor:-
+0.75
+##Upgrade Factor:-
+0.4
+##Rate of fire:-
+2
+##Fire color:-
+255, 51, 255
+##Fire Length  (for speed):-
+12
+##Special Effect:-
+Freeze
+##Special effect after every number of fires:-
+4
